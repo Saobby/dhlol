@@ -10,7 +10,7 @@ Build it, and then put the DanhengPlugin-Lol.dll file into your {Server}/Plugins
 
 Use  `/lol fly` can help your character soar into the sky
 
-![一张图片](images/1.jpg)
+![一张图片](image/1.jpg)
 
 Use `/lol move x y z` allows your character to ignore terrain and buildings to pass through walls or fly and burrow. Here, x, y, and z represent coordinates, which can be negative to indicate the opposite direction, for example, `/lol move 1000 -5000 3000`. All movements are based on the character's current coordinates.
 
